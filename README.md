@@ -4,7 +4,7 @@ Este es un programa interactivo escrito en Python que permite gestionar archivos
 
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
 1. **Listar archivos** del directorio actual.
 2. **Crear archivos** de texto o binarios.
